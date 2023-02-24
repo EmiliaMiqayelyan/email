@@ -1,0 +1,13 @@
+.email_inner{
+    width: 650px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.col-form-label{
+    white-space: nowrap !important;
+}
+
+.form-control{
+    width: 60% !important;
+}
