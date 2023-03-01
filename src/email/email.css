@@ -1,13 +1,32 @@
-.email_inner{
-    width: 650px;
-    margin: 0 auto;
-    padding: 30px;
+.email_inner {
+  width: 700px;
+  margin: 0 auto;
+  padding: 30px;
 }
 
-.col-form-label{
-    white-space: nowrap !important;
+.col-form-label {
+  white-space: nowrap !important;
 }
 
-.form-control{
-    width: 60% !important;
+.form-control {
+  width: 60% !important;
+}
+
+.send_btn {
+  margin-left: 25%;
+  font-weight: bold;
+}
+
+.inputs {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+}
+
+.validate {
+  color: #008000;
+}
+
+.not-validated {
+  color: #ff0000;
 }
